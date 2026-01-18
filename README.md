@@ -15,4 +15,4 @@ A numerical expedition into the depths of the compex plane conducted mainly out 
 
 <img width="3840" height="2160" alt="seasons_r" src="https://github.com/user-attachments/assets/cbf93195-5629-4b87-a4c1-a266b81ecd15" />
 
-Here is a  [YouTube video]((https://www.youtube.com/watch?v=nIb0c66AoFA)) that's based on this.
+Here is a  [YouTube video](https://www.youtube.com/watch?v=nIb0c66AoFA) that's based on this.
